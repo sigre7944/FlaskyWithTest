@@ -14,9 +14,10 @@ Test log can be found for UI tests in tests/uiTests/tests/results/.
 Test result screen capture and test log for API tests can be found in /tests/apiTests/.
 
 The following command lines were used to run the UI and API tests respectively.
+```
 - robot -d results login.robot   or   robot -d results register.robot
 - pytest ./apiUserTests.py 
-
+```
 
 ## Installation Instructions ##
 
