@@ -1,5 +1,17 @@
 # Signant Health Demo web App #
 
+## Ha Nguyen's Note 2022 Aug 15 ##
+To run the tests the following libraries were added:
+- pytest                         7.1.2
+- requests                       2.28.1
+- robotframework                 5.0.1
+- robotframework-pythonlibcore   3.0.0
+- robotframework-seleniumlibrary 6.0.0
+- selenium                       4.4.0
+
+Test log for api tests were generated using pytest-reportlog package.
+
+
 ## Installation Instructions ##
 
 
