@@ -3,3 +3,4 @@
 *.pyc
 instance/*
 .idea/*
+.DS_Store
