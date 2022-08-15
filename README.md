@@ -22,7 +22,7 @@ The following command lines were used to run the UI and API tests respectively.
 - pytest ./apiUserTests.py 
 ```
 
-!NOTE: for the API tests to work, there needs to be a number of user already added (for example through the Web interface).
+!NOTE: for the API tests to work, there needs to be a number of users already added (for example through the Web interface).
 
 ## Installation Instructions ##
 
