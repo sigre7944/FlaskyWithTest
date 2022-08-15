@@ -10,6 +10,8 @@ To run the tests the following libraries were added:
 - selenium                       4.4.0
 
 Test log for api tests were generated using pytest-reportlog package.
+Test log can be found for UI tests in tests/uiTests/tests/results/.
+Test result screen capture and test log for API tests can be found in /tests/apiTests/.
 
 
 ## Installation Instructions ##
