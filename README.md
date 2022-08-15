@@ -1,7 +1,7 @@
 # Signant Health Demo web App #
 
 ## Ha Nguyen's Note 2022 Aug 15 ##
-To run the tests the following libraries were added:
+To create and run the tests the following libraries were added:
 - pytest                         7.1.2
 - requests                       2.28.1
 - robotframework                 5.0.1
