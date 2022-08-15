@@ -1,6 +1,9 @@
 # Signant Health Demo web App (with tests) #
 
 ## Ha Nguyen's Note 2022 Aug 15 ##
+
+All created tests for the project can be found under the /tests directory.
+
 To create and run the tests the following libraries were added:
 - pytest                         7.1.2
 - requests                       2.28.1
