@@ -1,4 +1,4 @@
-# Signant Health Demo web App #
+# Signant Health Demo web App (with tests) #
 
 ## Ha Nguyen's Note 2022 Aug 15 ##
 To create and run the tests the following libraries were added:
