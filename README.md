@@ -1,4 +1,28 @@
-# Signant Health Demo web App #
+# Signant Health Demo web App (with tests) #
+
+## Ha Nguyen's Note 2022 Aug 15 ##
+
+All created tests for the project can be found under the /tests directory.
+
+To create and run the tests the following libraries were added:
+- pytest                         7.1.2
+- requests                       2.28.1
+- robotframework                 5.0.1
+- robotframework-pythonlibcore   3.0.0
+- robotframework-seleniumlibrary 6.0.0
+- selenium                       4.4.0
+
+Test log for API tests were generated using pytest-reportlog package.
+Test log can be found for UI tests in tests/uiTests/tests/results/.
+Test result screen capture and test log for API tests can be found in /tests/apiTests/.
+
+The following command lines were used to run the UI and API tests respectively.
+```
+- robot -d results login.robot   or   robot -d results register.robot
+- pytest ./apiUserTests.py 
+```
+
+!NOTE: for the API tests to work, there needs to be a number of users already added (for example through the Web interface).
 
 ## Installation Instructions ##
 
